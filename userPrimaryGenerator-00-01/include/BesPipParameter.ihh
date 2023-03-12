@@ -1,0 +1,7 @@
+// Define BES beam pipe parameters (from The BESIII Detector Draft)
+//
+  G4double zlength;   // full length 30cm
+  G4double rinner;    // inner radius 6.3cm
+  G4double inthick;   // inner tube thickness 0.8mm
+  G4double gasthick;  // gas gap thickness 3mm
+  G4double outthick;  // outer tube thickness 0.5mm
